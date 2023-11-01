@@ -2,9 +2,6 @@
 
 This project showcases real-time face detection using the OpenCV library, a powerful tool for computer vision. The application uses your webcam to detect faces and draw rectangles around them, making it a fun way to explore the world of computer vision.
 
-<p><video src=""></video></p>
-<p> <img src="">  </p>
-
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
